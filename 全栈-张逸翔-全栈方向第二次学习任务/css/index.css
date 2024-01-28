@@ -1,0 +1,323 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.w{
+    width: 1920px;
+    margin: 0 auto;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+img{
+    vertical-align:top bottom ;
+}
+@font-face {
+    font-family: 'iconfont';
+    src: url('iconfont.woff2?t=1705802957370') format('woff2'),
+         url('iconfont.woff?t=1705802957370') format('woff'),
+         url('iconfont.ttf?t=1705802957370') format('truetype');
+}
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}   
+span{
+    font-family: 'iconfont';
+}
+.BEST{
+    height: 814px;
+    background: url(https://typora----magic.oss-cn-beijing.aliyuncs.com/pic-1.png);
+
+}
+.nav{
+    width: 991px;
+    height: 97px;
+ line-height: 97px;
+
+}
+.navone{
+    float: left;
+    width: 178px;
+    height: 97px;
+
+}
+.navtwo{
+    float: left;
+    width: 178px;
+    height: 97px;
+}
+.navthree{
+    float: left;
+    width: 240px;
+    height: 97px;
+
+}
+.navfour{
+    float: left;
+    width: 211px;
+    height: 97px;
+    margin-left: 45px;
+
+}
+.navfive{
+    float: left;
+    width: 118px;
+    height: 97px;
+
+}
+.gray{
+    height: 457px;
+    background-color: #eae7e8
+}
+.cardone{
+    position: relative;
+    left: 414px;
+    top: 39px;
+    width: 1148px;
+    height: 509px;
+    background: url(https://typora----magic.oss-cn-beijing.aliyuncs.com/penpic.png);
+    background-color: #ffffff;
+    background-repeat: no-repeat;
+    
+   
+}
+p.wel{
+    position: relative;
+    left: 535px;
+   top: 56px;
+   font-weight: 900;
+    font-size: 50px;
+    color: black;
+}
+p.introduce{
+    position: relative;
+    left: 400px;
+    top: 100px;
+    font-size: 25px;
+}
+.video{
+    position: relative;
+    top: 336px;
+    left: 116px;
+    height: 237px;
+    width: 365px;
+    height: 237px;
+    background-color:rgba(239, 77, 130,0.8) ;
+}
+img.play{
+    position: relative;
+    left: 149px;
+    top: 89px;
+}
+.LAMY{
+    height: 680px;
+    margin-top: 155px;
+    background-color: cadetblue;
+}
+img.titleserise{
+    position: relative;
+    top: 100px;
+    left: 801px;
+}
+.liaojie{
+    position: relative;
+    top:516px ;
+    left: 839px;
+    width:182px;
+    height: 65px;
+    line-height: 65px;
+    font-size: 30px;
+    padding-left: 60px;
+    color: white;
+    background-color:#2b2b2b;
+}
+.aliyun{
+position: relative;
+left:19px;
+}
+.pen{
+    height: 393px;
+    background-image: url(https://typora----magic.oss-cn-beijing.aliyuncs.com/%E5%9B%BE%E5%B1%82%208.png);
+    background-color: chartreuse;
+}
+.pink{
+    position: relative;
+    left: 435px;
+    top: 200px;
+}
+.darkgray{
+    height: 346px;
+    background-color: chocolate;
+}
+.tupian{
+    position: relative;
+    left: 872px;
+    top: 69px;
+    height: 30px;
+    width: 50px;
+}
+img.from{
+    display: block;
+}
+.huadong{
+    position: relative;
+    top: 20px;
+    left: -250px;
+    width: 816px;
+    height: 273px;
+    background-color: white;
+    border: 1px solid transparent;
+}
+img.hua{
+    position: relative;
+    left:280px;
+    top: 186px;
+}
+p.oooo{
+    position: relative;
+    top: 80px;
+    margin-left: 150px;
+}
+img.touxiang{
+    
+    margin-left: 338px;
+    margin-top: -60px;
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+    background-color: darkorange;
+}
+.products{
+    height: 180px;
+    margin-top: 96px;
+}
+.display{
+    display: block;
+}
+.picture{
+    position: relative;
+    left: 872px;
+    top: 69px;
+}
+.column{
+    display: flex;
+    justify-content: space-between;
+    width: 884px;
+    height: 551px;
+}
+.columnone
+,.columntwo
+,.columnthree
+{
+    width: 249px;
+}
+.leftone{
+    height: 224px;
+}
+.lefttwo{
+    height: 303px;
+    margin-top: 21px;
+}
+.centerone{
+    height: 372px;
+}
+.centertwo{
+    height:161px;
+    margin-top: 19px;
+}
+.rightone{
+    height: 224px;
+}
+.righttwo{
+    height: 303px;
+    margin-top: 21px;
+}
+.quicklybuy{
+    height: 184px;
+}
+.buy{
+    position: relative;
+    top:65px ;
+    left:858px;
+    width:182px;
+    height: 65px;
+    line-height: 65px;
+    font-size: 30px;
+    padding-left: 60px;
+    color: white;
+    background-color:#2b2b2b;
+}
+.aliyun{
+    position: relative;
+    left:19px;
+    }
+.darkgray{
+    height: 341px;
+    border-top: 1px solid transparent;
+    background-color: #425253;
+}
+.cardtwo{
+    width: 876px;
+    height: 439px;
+    margin-left: 553px;
+    margin-top: 89px;
+    border: 1px solid transparent;
+    background-color: white;
+}
+.one{
+    display: flex;
+     flex-direction: column;
+    width: 377px; 
+    height: 393px;
+justify-content: space-around;
+    margin-top: 16px;
+    margin-left: 22px;
+}
+.top
+,.er
+,.three{
+    width: 377px;
+}
+.aaa{
+    position: relative;
+    top: -409px;
+    left: 403px;
+    display: flex;
+    flex-direction: column;
+    width: 427px; 
+    height: 393px;
+    justify-content: space-around;
+    margin-top: 16px;
+}
+.recommend{
+    position: relative;
+    top: 187px;
+    height: 122px;
+}
+.tuijian{
+    position: relative;
+    top:36px ;
+    left:858px;
+    width:182px;
+    height: 65px;
+    line-height: 65px;
+    font-size: 30px;
+    padding-left: 60px;
+    color: white;
+    background-color:red;
+}
+.aliyun{
+    position: relative;
+    left:19px;
+    }
+.end{
+    height: 1013px;
+    margin-top: 184px;
+    background-image: url(https://typora----magic.oss-cn-beijing.aliyuncs.com/over.png);
+    background-color: crimson;
+}
