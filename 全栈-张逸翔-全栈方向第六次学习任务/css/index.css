@@ -36,6 +36,6 @@ span{
 .inputname
 ,.inputage
 ,.inputstr{
-    width: 200px;
+    width: 0px;
     height: 33px;
 }
